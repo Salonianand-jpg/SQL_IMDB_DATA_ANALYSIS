@@ -1,0 +1,101 @@
+rating_id,movie_id,user_name,rating,review
+1,91,Anna,5.7,Masterpiece 
+2,15,Eve,9.1,Epic Marvel movie
+3,95,Mike@,8.3, Great movie
+4,29,Anna,6.1,Romantic and tragic
+5,4,Peggy,7.6,Heartwarming story
+6,59,Mallory,8.1,
+7,3,Oscar,8.0, Great movie
+8,93,Eve,5.6,Mind-bending!!
+9,94,Eve,8.5,
+10,40,Oscar,7.3,A classic
+11,3,Charlie,,Masterpiece 
+12,21,Oscar,5.5,Masterpiece 
+13,36,Mike@,6.8,A classic
+14,31,Anna,6.8, Great movie
+15,17,Alice,8.3,Masterpiece 
+16,35,Eve,5.0,Masterpiece 
+17,56,Charlie,5.2,Romantic and tragic
+18,16,Alice,8.1,Best Batman ever
+19,80,Tom,8.3, Great movie
+20,16,Liam,,Best Batman ever
+21,63,Charlie,9.1,Masterpiece 
+22,89,Peggy,6.1, Great movie
+23,7,Mallory,,A classic
+24,54,Jane Smith,7.1,Mind-bending!!
+25,88, Bob ,5.2,Romantic and tragic
+26,76,Charlie,8.2,Mind-bending!!
+27,24,JohnDoe,9.2,Epic Marvel movie
+28,19,JohnDoe,5.3,Romantic and tragic
+29,52,Eve,8.5,Romantic and tragic
+30,61,Noah,,Epic Marvel movie
+31,67,JohnDoe,8.9,Mind-bending!!
+32,80, Bob ,8.6,Epic Marvel movie
+33,84,Liam,8.5,Romantic and tragic
+34,11,Jane Smith,6.5,A classic
+35,94,Peggy,,Masterpiece 
+36,10,Liam,7.7,Best Batman ever
+37,88,Tom,8.1,
+38,26,Oscar,9.4,Best Batman ever
+39,12,Eve,,Masterpiece 
+40,76,Alice,6.9,Romantic and tragic
+41,47,Eve,,Heartwarming story
+42,81,Peggy,9.2,
+43,51,Mike@,6.9,Mind-bending!!
+44,64,Noah,8.0,Romantic and tragic
+45,89,Jerry,7.7,Best Batman ever
+46,81,Liam,6.2,Mind-bending!!
+47,11,Mallory,6.1,Masterpiece 
+48,90,Oscar,6.0,Romantic and tragic
+49,14,Oscar,7.6, Dialogue and storytelling unmatched
+50,29,Charlie,9.2,A classic
+51,53,Charlie,6.7, Dialogue and storytelling unmatched
+52,14,Charlie,,Heartwarming story
+53,4,Jerry,9.4,Epic Marvel movie
+54,34,Jerry,7.8, Great movie
+55,53,Tom,7.6,A classic
+56,61,Jane Smith,8.5,Epic Marvel movie
+57,67,Eve,8.8,A classic
+58,41,Noah,9.0,Mind-bending!!
+59,86,Jane Smith,7.4,Best Batman ever
+60,65,Tom,7.1,Epic Marvel movie
+61,87,Charlie,8.6,Epic Marvel movie
+62,59,Eve,7.3,A classic
+63,41,Mallory,6.7,A classic
+64,21,Mallory,9.3,Mind-bending!!
+65,86,Oscar,8.4,Romantic and tragic
+66,3,Tom,,Heartwarming story
+67,79,Mike@,9.2,A classic
+68,79,Liam,7.4, Great movie
+69,29,Oscar,9.0,Best Batman ever
+70,55,Jane Smith,7.2,Romantic and tragic
+71,71,Mike@,5.0, Dialogue and storytelling unmatched
+72,9,Noah,9.2,
+73,68,Mike@,,
+74,64,Peggy,,A classic
+75,4,Jerry,8.4,
+76,24,Oscar,8.1,Best Batman ever
+77,15,Eve,,Epic Marvel movie
+78,62,Jane Smith,8.2,Mind-bending!!
+79,88,Peggy,eight point seven,Epic Marvel movie
+80,68, Bob ,9.2,A classic
+81,37,Eve,7.1,Mind-bending!!
+82,59,Jane Smith,7.0,Best Batman ever
+83,9,Jerry,7.5,Heartwarming story
+84,3,Peggy,5.1, Dialogue and storytelling unmatched
+85,60,Oscar,8.7,Best Batman ever
+86,35,Peggy,7.6,
+87,30,Charlie,5.7,Heartwarming story
+88,70,Alice,9.5, Dialogue and storytelling unmatched
+89,59,Charlie,8.4,Epic Marvel movie
+90,84,Anna,9.4,A classic
+91,12,Charlie,7.8,Best Batman ever
+92,81,Charlie,6.5,Heartwarming story
+93,68,Eve,5.6, Great movie
+94,36,Tom,,Mind-bending!!
+95,99,Mike@,9.2,Masterpiece 
+96,7,Jane Smith,,Epic Marvel movie
+97,33, Bob ,6.8,Heartwarming story
+98,67,Oscar,8.8,Masterpiece 
+99,44,Mike@,6.3, Dialogue and storytelling unmatched
+100,45,Noah,, Dialogue and storytelling unmatched

@@ -1,0 +1,101 @@
+movie_id,title,genre,release_date,duration,language
+1,The Godfather,Drama,,153 min,ENGLISH
+2,The Dark Knight ,Romance,1975/08/28,133 min,English 
+3,Inception,Drama,1979/12/03,84 min,ENglish
+4,Pulp Fiction,Crime ,1985/04/05,159 min,English
+5,Forrest Gump,Romance,1988-09-26,168 min,English
+6, Fight Club,Thriller,2004/11/04,184,English
+7,The Matrix,Action,2019/02/13,169 min,ENglish
+8,Avengers@Infinity War,Sci-Fi,2020-03-04,197,English
+9,Titanic,Crime ,2006-05-23,149 min,english
+10, Spider-Man: No Way Home,Action,1976-10-06,173 min,english
+11,Interstellar ,Thriller,1986-11-23,100 min,English 
+12, The Shawshank Redemption,Romance,1985-05-24,83 min,ENglish
+13, Gladiator,Sci-Fi,2014/03/07,179 min,English
+14,The Lion King,Comedy,,171 min,english
+15,Joker,Comedy,,192 min,ENGLISH
+16, Avengers: Endgame,Romance,24/10/2014,197 min,English 
+17,Black Panther ,Comedy,10/05/1977,196 min,English
+18,Iron Man,Thriller,10/11/1975,190,english
+19,Thor: Ragnarok ,Crime ,"March 05, 2018",106 min,english
+20, Doctor Strange ,drma,"January 18, 1978",81 min,english
+21,The Godfather ,Thriller,1993/10/04,81 min,English
+22,The Dark Knight,"Action, Adventure",,112 min,English 
+23,Inception,Action,"July 07, 2021",104 min,ENglish
+24, Pulp Fiction,Action,,124 min,ENGLISH
+25,Forrest Gump,Thriller,,127 min,ENGLISH
+26, Fight Club,Comedy,1988-05-23,111 min,ENGLISH
+27,The Matrix,Sci-Fi,,124 min,english
+28,Avengers@Infinity War,Thriller,"January 29, 2001",103 min,English 
+29, Titanic,Sci-Fi,2024-07-06,155,English 
+30,Spider-Man: No Way Home ,Crime ,2001-01-15,125 min,English
+31,Interstellar,Action,,170,ENglish
+32,The Shawshank Redemption,Crime ,2009-10-08,132 min,English
+33, Gladiator ,Comedy,"February 18, 1993",182 min,English
+34,The Lion King,Sci-Fi,20/04/1977,153 min,English
+35,Joker,Crime ,2010/05/28,92 min,ENGLISH
+36,Avengers: Endgame,drma,03/02/1974,145,English
+37, Black Panther,Thriller,"December 25, 1982",133 min,English 
+38,Iron Man,Crime ,"June 21, 1986",121,English
+39,Thor: Ragnarok,drma,,186 min,English
+40,Doctor Strange,Romance,1972-02-24,140 min,english
+41, The Godfather,drma,,194,ENGLISH
+42,The Dark Knight,Sci-Fi,"March 23, 2003",181 min,English
+43,Inception,Action,1972/12/23,142 min,English 
+44,Pulp Fiction,Action,"December 29, 1970",164 min,english
+45,Forrest Gump,drma,1983-01-11,124,english
+46,Fight Club,Action,,199,english
+47, The Matrix,Romance,13/01/2023,145 min,ENGLISH
+48, Avengers@Infinity War,Thriller,"January 26, 1970",94,English 
+49,Titanic,"Action, Adventure",06/01/1973,165 min,ENGLISH
+50,Spider-Man: No Way Home,Comedy,,117 min,English 
+51,Interstellar,Crime ,1977/03/27,185 min,English
+52,The Shawshank Redemption,Crime ,"October 27, 1981",151 min,english
+53, Gladiator,Comedy,,161,English
+54, The Lion King,Comedy,"April 10, 2004",110,english
+55,Joker ,Crime ,2014/01/08,125 min,ENglish
+56,Avengers: Endgame,Romance,,154,english
+57,Black Panther ,Crime ,1997/10/18,178,English
+58,Iron Man,"Action, Adventure",,101 min,English
+59, Thor: Ragnarok,Drama,,169 min,english
+60,Doctor Strange,Action,,112,english
+61,The Godfather,Drama,1981/08/09,184,ENGLISH
+62,The Dark Knight,Crime ,1982-03-10,102 min,English
+63, Inception ,Romance,"October 08, 2002",106,ENGLISH
+64,Pulp Fiction,Crime ,,143 min,English 
+65, Forrest Gump,"Action, Adventure",10/08/2003,80 min,English
+66, Fight Club ,"Action, Adventure",,186 min,English
+67,The Matrix,Thriller,02/10/1984,126,ENglish
+68,Avengers@Infinity War,Thriller,1985/03/12,84,ENglish
+69,Titanic,"Action, Adventure",2023-01-03,177,ENGLISH
+70,Spider-Man: No Way Home,Comedy,1974/03/03,138 min,ENglish
+71, Interstellar,Comedy,2009-01-06,114 min,ENGLISH
+72,The Shawshank Redemption ,drma,"December 14, 1991",115,ENGLISH
+73, Gladiator,Thriller,15/06/1982,122 min,ENGLISH
+74,The Lion King ,Action,"April 13, 2016",151 min,english
+75,Joker,"Action, Adventure","July 29, 2020",149 min,english
+76,Avengers: Endgame,drma,,117 min,ENglish
+77,Black Panther,Action,1979-08-15,159 min,English 
+78,Iron Man,drma,,194 min,English
+79, Thor: Ragnarok,Drama,2021-07-04,118,ENglish
+80,Doctor Strange,Romance,,122,ENglish
+81,The Godfather,drma,"March 01, 1992",115 min,ENGLISH
+82,The Dark Knight,Crime ,"April 30, 1988",92 min,english
+83, Inception,Romance,"November 02, 1983",138 min,English
+84,Pulp Fiction ,Action,,125 min,ENGLISH
+85, Forrest Gump,Crime ,,165 min,English
+86,Fight Club,"Action, Adventure",2014/06/24,193 min,english
+87,The Matrix,"Action, Adventure",02/02/1989,199 min,ENGLISH
+88, Avengers@Infinity War ,Action,1999/01/20,106,English 
+89,Titanic,Romance,,159,English
+90, Spider-Man: No Way Home ,Sci-Fi,1982-05-15,126,english
+91,Interstellar ,Thriller,,107,english
+92,The Shawshank Redemption,Crime ,23/09/1976,182 min,english
+93,Gladiator,drma,04/03/1981,158 min,English
+94, The Lion King,Drama,,194 min,English 
+95,Joker ,Drama,1972-06-24,173 min,ENglish
+96, Avengers: Endgame,Romance,13/09/1995,131 min,ENGLISH
+97,Black Panther ,Thriller,19/08/2023,83 min,English
+98,Iron Man,Sci-Fi,1987-02-20,184 min,ENGLISH
+99,Thor: Ragnarok,"Action, Adventure",23/05/1998,200 min,English
+100,Doctor Strange,"Action, Adventure",1977-10-10,173,ENGLISH
