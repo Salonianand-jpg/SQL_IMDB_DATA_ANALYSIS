@@ -245,3 +245,12 @@ ON DELETE SET NULL
 ON UPDATE CASCADE;
 
 SELECT * FROM ratings;
+
+
+# My Presentation
+
+Click below to view/download the presentation:
+
+[View Presentation](./SQL_IMDB_DATA_ANALYSIS/blob/main/PPT_IMDB_Movie_Data_Analysis%20.pdf)
+
+https://github.com/Salonianand-jpg/SQL_IMDB_DATA_ANALYSIS/blob/main/PPT_IMDB_Movie_Data_Analysis%20.pdf
